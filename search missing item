@@ -1,0 +1,55 @@
+<div style={{width: '100%', height: '100%', position: 'relative', background: '#EDE6C1', overflow: 'hidden'}}>
+    <div style={{left: 29, top: 145, position: 'absolute', color: '#5B3816', fontSize: 32, fontFamily: 'Josefin Sans', fontStyle: 'italic', fontWeight: '700', wordWrap: 'break-word'}}>Find a missing item</div>
+    <div style={{width: 314, height: 50, left: 37, top: 203, position: 'absolute', background: 'white', borderRadius: 172}} />
+    <div style={{left: 54, top: 219, position: 'absolute', opacity: 0.34, color: 'black', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'}}>Type an item</div>
+    <div style={{left: 54, top: 275, position: 'absolute', color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'}}>Your items:</div>
+    <div style={{width: 146, height: 176, left: 42, top: 317, position: 'absolute', boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)'}}>
+        <img style={{width: 146, height: 176, left: 0, top: 0, position: 'absolute', borderRadius: 20}} src="https://placehold.co/146x176" />
+        <div style={{width: 146, height: 52, left: 0, top: 124, position: 'absolute', background: 'white', borderBottomRightRadius: 20, borderBottomLeftRadius: 20}} />
+        <div style={{width: 110.96, left: 16.42, top: 140, position: 'absolute', color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'}}>Wallet</div>
+    </div>
+    <div style={{width: 146, height: 176, left: 42, top: 537, position: 'absolute', boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)'}}>
+        <img style={{width: 146, height: 176, left: 0, top: 0, position: 'absolute', borderRadius: 20}} src="https://placehold.co/146x176" />
+        <div style={{width: 146, height: 52, left: 0, top: 124, position: 'absolute', background: 'white', borderBottomRightRadius: 20, borderBottomLeftRadius: 20}} />
+        <div style={{width: 110.96, left: 16.42, top: 140, position: 'absolute', color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'}}>Keys</div>
+    </div>
+    <div style={{width: 146, height: 176, left: 42, top: 757, position: 'absolute', boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)'}}>
+        <img style={{width: 146, height: 176, left: 0, top: 0, position: 'absolute', borderRadius: 20}} src="https://placehold.co/146x176" />
+        <div style={{width: 146, height: 52, left: 0, top: 124, position: 'absolute', background: 'white', borderBottomRightRadius: 20, borderBottomLeftRadius: 20}} />
+        <div style={{width: 110.96, left: 16.42, top: 140, position: 'absolute', color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'}}>Passport</div>
+    </div>
+    <div style={{width: 146, height: 176, left: 41, top: 977, position: 'absolute', boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)'}}>
+        <img style={{width: 146, height: 176, left: 0, top: 0, position: 'absolute', borderRadius: 20}} src="https://placehold.co/146x176" />
+        <div style={{width: 146, height: 52, left: 0, top: 124, position: 'absolute', background: 'white', borderBottomRightRadius: 20, borderBottomLeftRadius: 20}} />
+        <div style={{width: 110.96, left: 16.42, top: 140, position: 'absolute', color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'}}>Pencil</div>
+    </div>
+    <div style={{width: 146, height: 176, left: 215, top: 317, position: 'absolute', boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)'}}>
+        <img style={{width: 146, height: 176, left: 0, top: 0, position: 'absolute', borderRadius: 20}} src="https://placehold.co/146x176" />
+        <div style={{width: 146, height: 52, left: 0, top: 124, position: 'absolute', background: 'white', borderBottomRightRadius: 20, borderBottomLeftRadius: 20}} />
+        <div style={{width: 110.96, left: 16.42, top: 140, position: 'absolute', color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'}}>Watch</div>
+    </div>
+    <div style={{width: 146, height: 176, left: 215, top: 537, position: 'absolute', boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)'}}>
+        <img style={{width: 146, height: 176, left: 0, top: 0, position: 'absolute', borderRadius: 20}} src="https://placehold.co/146x176" />
+        <div style={{width: 146, height: 52, left: 0, top: 124, position: 'absolute', background: 'white', borderBottomRightRadius: 20, borderBottomLeftRadius: 20}} />
+        <div style={{width: 110.96, left: 16.42, top: 140, position: 'absolute', color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'}}>Glasses</div>
+    </div>
+    <div style={{width: 146, height: 176, left: 215, top: 757, position: 'absolute', boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)'}}>
+        <img style={{width: 146, height: 176, left: 0, top: 0, position: 'absolute', borderRadius: 20}} src="https://placehold.co/146x176" />
+        <div style={{width: 146, height: 52, left: 0, top: 124, position: 'absolute', background: 'white', borderBottomRightRadius: 20, borderBottomLeftRadius: 20}} />
+        <div style={{width: 110.96, left: 16.42, top: 140, position: 'absolute', color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'}}>Hat</div>
+    </div>
+    <div style={{width: 43, height: 43, left: 304, top: 207, position: 'absolute', background: '#882255', borderRadius: 9999}} />
+    <div style={{width: 24, height: 23, left: 314, top: 217, position: 'absolute', overflow: 'hidden'}}>
+        <div style={{width: 21.43, height: 20.54, left: 1.29, top: 1.24, position: 'absolute', background: 'white'}} />
+    </div>
+    <div style={{width: 393, height: 113, left: 0, top: 0, position: 'absolute'}}>
+        <div style={{width: 393, height: 113, left: 0, top: 0, position: 'absolute'}}>
+            <div style={{width: 393, height: 113, left: 0, top: 0, position: 'absolute', background: '#88CCEE'}} />
+        </div>
+    </div>
+    <img style={{width: 55.48, height: 52.98, left: 126, top: 53, position: 'absolute'}} src="https://placehold.co/55x53" />
+    <div style={{width: 79, height: 33.98, left: 188.99, top: 63, position: 'absolute', color: 'black', fontSize: 32, fontFamily: 'Jersey 10', fontWeight: '400', wordWrap: 'break-word'}}>fetchly</div>
+    <div style={{width: 25, height: 37, left: 23, top: 61, position: 'absolute', overflow: 'hidden'}}>
+        <div style={{width: 11.29, height: 31.09, left: 16.88, top: 33.98, position: 'absolute', transform: 'rotate(-180deg)', transformOrigin: 'top left', background: 'black'}} />
+    </div>
+</div>
