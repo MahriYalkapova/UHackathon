@@ -1,0 +1,4 @@
+<div style={{width: '100%', height: '100%', position: 'relative', background: '#88CCEE', overflow: 'hidden'}}>
+    <img style={{width: 118, height: 113, left: 130, top: 313, position: 'absolute'}} src="https://placehold.co/118x113" />
+    <div style={{width: 158, height: 61, left: 117, top: 426, position: 'absolute', color: 'black', fontSize: 64, fontFamily: 'Jersey 10', fontWeight: '400', wordWrap: 'break-word'}}>fetchly</div>
+</div>
