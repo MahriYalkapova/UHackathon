@@ -40,7 +40,7 @@ export default function SearchBar() {
 
   const handleSubmit = () => {
     if (query.trim()) {
-      router.push({ pathname: '/explore', params: { item: query } });
+      router.push('/cameraAdd');
     } else {
       Alert.alert('Please type or select an item.');
     }

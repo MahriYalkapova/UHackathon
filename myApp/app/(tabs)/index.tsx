@@ -9,25 +9,23 @@ import { ThemedView } from '@/components/ThemedView';
 
 import { useRouter } from 'expo-router';
 
-
-// Temporary placeholder components
 const AppHeader = () => <View style={{ flex: 1 }} />;
 
-const RegisterButton = () => (
-  <Button title="Register" onPress={() => console.log('Register pressed')} />
-);
-const FindButton = () => {
-  const router = useRouter();
-  return <Button title="Find" onPress={() => router.push('/find')} />;
-};
-
-const PlaceButton = () => {
-  const router = useRouter();
-  return <Button title="Place" onPress={() => router.push('/place')} />;
-};
-
 export default function HomeScreen() {
-      const router = useRouter();
+  const router = useRouter();
+
+  const RegisterButton = () => (
+    <Button title="Register" onPress={() => console.log('Register pressed')} />
+  );
+
+  const FindButton = () => (
+    <Button title="Find" onPress={() => router.push('/search')} />
+  );
+
+  const PlaceButton = () => (
+    <Button title="Place" onPress={() => router.push('/search')} />
+  );
+
   return (
     <ParallaxScrollView
       headerBackgroundColor={{ light: '#A1CEDC', dark: '#1D3D47' }}
