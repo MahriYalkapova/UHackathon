@@ -1,0 +1,44 @@
+<div style={{width: '100%', height: '100%', position: 'relative', background: '#EDE6C1', overflow: 'hidden'}}>
+    <div style={{width: 333, left: 23, top: 146, position: 'absolute', color: '#5B3816', fontSize: 24, fontFamily: 'Josefin Sans', fontStyle: 'italic', fontWeight: '700', wordWrap: 'break-word'}}>I’ll help you find your wallet!</div>
+    <div style={{width: 333, left: 22, top: 191, position: 'absolute', color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '500', wordWrap: 'break-word'}}>Upload a video of the area you think you lost your wallet at. Move your camera around slowly!</div>
+    <div style={{width: 92, height: 92, left: 64, top: 284, position: 'absolute', background: '#882255', borderRadius: 9999}} />
+    <div data-style="Outlined" style={{width: 62, height: 63, left: 79, top: 299, position: 'absolute', overflow: 'hidden'}}>
+        <div style={{width: 46.50, height: 31.50, left: 7.75, top: 15.75, position: 'absolute', background: 'white'}} />
+    </div>
+    <div style={{width: 92, height: 92, left: 224, top: 284, position: 'absolute', background: '#332288', borderRadius: 9999}} />
+    <div style={{width: 113, left: 52, top: 387, position: 'absolute', textAlign: 'center', color: '#5B3816', fontSize: 16, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'}}>Take video with your camera</div>
+    <div style={{width: 113, left: 214, top: 387, position: 'absolute', textAlign: 'center', color: '#5B3816', fontSize: 16, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'}}>Upload video from your gallery</div>
+    <div style={{width: 202, height: 53, left: 96, top: 634, position: 'absolute', background: '#CC6677', borderRadius: 39}} />
+    <div style={{left: 169, top: 649, position: 'absolute', color: 'white', fontSize: 24, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'}}>Done</div>
+    <div data-favorite-button="false" data-layout="Inset" data-media="Video" data-size="Small" data-state="Loading" style={{width: 320, height: 128, paddingLeft: 16, paddingRight: 16, left: 37, top: 466, position: 'absolute', borderRadius: 74, flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start', gap: 10, display: 'inline-flex'}}>
+        <div data-favorite-button="false" data-layout="Bleed" data-media="Video" data-size="Large" data-state="Loading" style={{alignSelf: 'stretch', flex: '1 1 0', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'flex'}}>
+            <div style={{alignSelf: 'stretch', flex: '1 1 0', position: 'relative', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', display: 'flex'}}>
+                <div style={{alignSelf: 'stretch', flex: '1 1 0', position: 'relative', overflow: 'hidden'}}>
+                    <div style={{width: 414, height: 414, left: -126, top: -143, position: 'absolute', background: 'linear-gradient(135deg, #E8E8E8 48%, #F3F3F3 60%, #E8E8E8 73%)'}} />
+                </div>
+                <div data-behavior="Fixed width" data-hierarchy="Secondary" data-icon-leading="false" data-icon-trailing="false" data-label-bottom="false" data-layout="Icon only" data-minimum-width="true" data-shape="Circle" data-size="Large" data-state="Disabled" style={{left: 116, top: 36, position: 'absolute', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 8, display: 'flex'}}>
+                    <div style={{width: 56, height: 56, padding: 16, background: '#F3F3F3', borderRadius: 56, justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+                        <div style={{width: 24, height: 24, position: 'relative'}}>
+                            <div style={{width: 24, height: 24, left: 0, top: 0, position: 'absolute', overflow: 'hidden'}}>
+                                <div style={{width: 17.80, height: 20.60, left: 5, top: 1.70, position: 'absolute', background: '#A6A6A6'}} />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style={{width: 49, height: 51.21, left: 246, top: 304, position: 'absolute', overflow: 'hidden'}}>
+        <div style={{width: 32.67, height: 34.14, left: 8.17, top: 8.53, position: 'absolute', background: 'white'}} />
+    </div>
+    <div style={{width: 393, height: 113, left: 0, top: 0, position: 'absolute'}}>
+        <div style={{width: 393, height: 113, left: 0, top: 0, position: 'absolute'}}>
+            <div style={{width: 393, height: 113, left: 0, top: 0, position: 'absolute', background: '#88CCEE'}} />
+        </div>
+    </div>
+    <img style={{width: 55.48, height: 52.98, left: 126, top: 53, position: 'absolute'}} src="https://placehold.co/55x53" />
+    <div style={{width: 79, height: 33.98, left: 188.99, top: 63, position: 'absolute', color: 'black', fontSize: 32, fontFamily: 'Jersey 10', fontWeight: '400', wordWrap: 'break-word'}}>fetchly</div>
+    <div style={{width: 25, height: 37, left: 23, top: 61, position: 'absolute', overflow: 'hidden'}}>
+        <div style={{width: 11.29, height: 31.09, left: 16.88, top: 33.98, position: 'absolute', transform: 'rotate(-180deg)', transformOrigin: 'top left', background: 'black'}} />
+    </div>
+</div>
