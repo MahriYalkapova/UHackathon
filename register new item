@@ -1,0 +1,40 @@
+<div style={{width: '100%', height: '100%', position: 'relative', background: '#EDE6C1', overflow: 'hidden'}}>
+    <div style={{left: 23, top: 146, position: 'absolute', color: '#5B3816', fontSize: 32, fontFamily: 'Josefin Sans', fontStyle: 'italic', fontWeight: '700', wordWrap: 'break-word'}}>Register a new item</div>
+    <div style={{width: 342, height: 50, left: 23, top: 228, position: 'absolute', background: 'white', borderRadius: 172}} />
+    <div style={{width: 267.94, left: 41.52, top: 244, position: 'absolute', opacity: 0.34, color: 'black', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'}}>Enter the name of the item</div>
+    <div style={{left: 29, top: 197, position: 'absolute', color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '500', wordWrap: 'break-word'}}>What do you call your item?</div>
+    <div style={{left: 25, top: 317, position: 'absolute', color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '500', wordWrap: 'break-word'}}>Add photos of your item</div>
+    <div style={{width: 369, height: 120, left: 23, top: 540, position: 'absolute', overflow: 'hidden'}}>
+        <img style={{width: 81, height: 120, left: 434, top: 0, position: 'absolute'}} src="https://placehold.co/81x120" />
+        <img style={{width: 81, height: 120, left: 347, top: 0, position: 'absolute'}} src="https://placehold.co/81x120" />
+        <img style={{width: 81, height: 120, left: 0, top: 0, position: 'absolute'}} src="https://placehold.co/81x120" />
+        <img style={{width: 81, height: 120, left: 174, top: 0, position: 'absolute'}} src="https://placehold.co/81x120" />
+        <img style={{width: 81, height: 120, left: 87, top: 0, position: 'absolute'}} src="https://placehold.co/81x120" />
+        <img style={{width: 81, height: 120, left: 261, top: 0, position: 'absolute'}} src="https://placehold.co/81x120" />
+        <div data-style="Outlined" style={{width: 52, height: 46, left: 321, top: 37, position: 'absolute', overflow: 'hidden'}}>
+            <div style={{width: 16.06, height: 23, left: 17.97, top: 11.50, position: 'absolute', background: '#5B3816'}} />
+        </div>
+    </div>
+    <div style={{width: 202, height: 53, left: 96, top: 699, position: 'absolute', background: '#CC6677', borderRadius: 39}} />
+    <div style={{left: 169, top: 714, position: 'absolute', color: 'white', fontSize: 24, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'}}>Done</div>
+    <div style={{width: 113, left: 56, top: 468, position: 'absolute', textAlign: 'center', color: '#5B3816', fontSize: 16, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'}}>Take pictures with your camera</div>
+    <div style={{width: 113, left: 219, top: 476, position: 'absolute', textAlign: 'center', color: '#5B3816', fontSize: 16, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'}}>Upload from your gallery</div>
+    <div style={{width: 92, height: 92, left: 67, top: 362, position: 'absolute', background: '#44AA99', borderRadius: 9999}} />
+    <div style={{width: 49, height: 44, left: 89, top: 386, position: 'absolute', overflow: 'hidden'}}>
+        <div style={{width: 40.83, height: 33, left: 4.08, top: 5.50, position: 'absolute', background: 'white'}} />
+    </div>
+    <div style={{width: 92, height: 92, left: 230, top: 362, position: 'absolute', background: '#332288', borderRadius: 9999}} />
+    <div style={{width: 49, height: 41, left: 252, top: 388, position: 'absolute', overflow: 'hidden'}}>
+        <div style={{width: 32.67, height: 27.33, left: 8.17, top: 6.83, position: 'absolute', background: 'white'}} />
+    </div>
+    <div style={{width: 393, height: 113, left: 0, top: 0, position: 'absolute'}}>
+        <div style={{width: 393, height: 113, left: 0, top: 0, position: 'absolute'}}>
+            <div style={{width: 393, height: 113, left: 0, top: 0, position: 'absolute', background: '#88CCEE'}} />
+        </div>
+    </div>
+    <img style={{width: 55.48, height: 52.98, left: 126, top: 53, position: 'absolute'}} src="https://placehold.co/55x53" />
+    <div style={{width: 79, height: 33.98, left: 188.99, top: 63, position: 'absolute', color: 'black', fontSize: 32, fontFamily: 'Jersey 10', fontWeight: '400', wordWrap: 'break-word'}}>fetchly</div>
+    <div style={{width: 25, height: 37, left: 23, top: 61, position: 'absolute', overflow: 'hidden'}}>
+        <div style={{width: 11.29, height: 31.09, left: 16.88, top: 33.98, position: 'absolute', transform: 'rotate(-180deg)', transformOrigin: 'top left', background: 'black'}} />
+    </div>
+</div>
