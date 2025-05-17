@@ -1,0 +1,21 @@
+<div style={{width: '100%', height: '100%', position: 'relative', background: '#EDE6C1', overflow: 'hidden'}}>
+    <div style={{width: 333, left: 23, top: 146, position: 'absolute', color: '#5B3816', fontSize: 24, fontFamily: 'Josefin Sans', fontStyle: 'italic', fontWeight: '700', wordWrap: 'break-word'}}>Is this your wallet</div>
+    <div style={{width: 333, left: 22, top: 191, position: 'absolute', color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '500', wordWrap: 'break-word'}}>Here’s what I found that might be your wallet:</div>
+    <div style={{width: 175, left: 109, top: 465, position: 'absolute', color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '500', wordWrap: 'break-word'}}>Is this your wallet?</div>
+    <img style={{width: 330, height: 184, left: 26, top: 252, position: 'absolute', borderRadius: 13}} src="https://placehold.co/330x184" />
+    <div style={{width: 88, height: 48, left: 244, top: 329, position: 'absolute', borderRadius: 9999, border: '7px #2DDD1A solid'}} />
+    <div style={{width: 231, height: 53, left: 81, top: 499, position: 'absolute', background: '#44AA99', borderRadius: 39}} />
+    <div style={{width: 39, left: 177, top: 514, position: 'absolute', color: 'white', fontSize: 24, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'}}>Yes</div>
+    <div style={{width: 231, height: 53, left: 81, top: 581, position: 'absolute', background: '#882255', borderRadius: 39}} />
+    <div style={{width: 161, left: 116, top: 596, position: 'absolute', color: 'white', fontSize: 24, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'}}>No - try again</div>
+    <div style={{width: 393, height: 113, left: 0, top: 0, position: 'absolute'}}>
+        <div style={{width: 393, height: 113, left: 0, top: 0, position: 'absolute'}}>
+            <div style={{width: 393, height: 113, left: 0, top: 0, position: 'absolute', background: '#88CCEE'}} />
+        </div>
+    </div>
+    <img style={{width: 55.48, height: 52.98, left: 126, top: 53, position: 'absolute'}} src="https://placehold.co/55x53" />
+    <div style={{width: 79, height: 33.98, left: 188.99, top: 63, position: 'absolute', color: 'black', fontSize: 32, fontFamily: 'Jersey 10', fontWeight: '400', wordWrap: 'break-word'}}>fetchly</div>
+    <div style={{width: 25, height: 37, left: 23, top: 61, position: 'absolute', overflow: 'hidden'}}>
+        <div style={{width: 11.29, height: 31.09, left: 16.88, top: 33.98, position: 'absolute', transform: 'rotate(-180deg)', transformOrigin: 'top left', background: 'black'}} />
+    </div>
+</div>
