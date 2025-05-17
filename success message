@@ -1,0 +1,16 @@
+<div style={{width: '100%', height: '100%', position: 'relative', background: '#EDE6C1', overflow: 'hidden'}}>
+    <div style={{width: 311, left: 41, top: 325, position: 'absolute', color: '#5B3816', fontSize: 24, fontFamily: 'Josefin Sans', fontStyle: 'italic', fontWeight: '700', wordWrap: 'break-word'}}>Yay! You found your wallet</div>
+    <div data-style="Outlined" style={{width: 177, height: 168, left: 108, top: 388, position: 'absolute', overflow: 'hidden'}}>
+        <div style={{width: 147.50, height: 140, left: 14.75, top: 14, position: 'absolute', background: '#5B3816'}} />
+    </div>
+    <div style={{width: 393, height: 113, left: 0, top: 0, position: 'absolute'}}>
+        <div style={{width: 393, height: 113, left: 0, top: 0, position: 'absolute'}}>
+            <div style={{width: 393, height: 113, left: 0, top: 0, position: 'absolute', background: '#88CCEE'}} />
+        </div>
+    </div>
+    <img style={{width: 55.48, height: 52.98, left: 126, top: 53, position: 'absolute'}} src="https://placehold.co/55x53" />
+    <div style={{width: 79, height: 33.98, left: 188.99, top: 63, position: 'absolute', color: 'black', fontSize: 32, fontFamily: 'Jersey 10', fontWeight: '400', wordWrap: 'break-word'}}>fetchly</div>
+    <div style={{width: 25, height: 37, left: 23, top: 61, position: 'absolute', overflow: 'hidden'}}>
+        <div style={{width: 11.29, height: 31.09, left: 16.88, top: 33.98, position: 'absolute', transform: 'rotate(-180deg)', transformOrigin: 'top left', background: 'black'}} />
+    </div>
+</div>
