@@ -1,0 +1,59 @@
+// fetchly
+color: 'black', fontSize: 64, fontFamily: 'Jersey 10', fontWeight: '400', wordWrap: 'break-word'
+
+// Good morning, Joe!
+color: '#5B3816', fontSize: 32, fontFamily: 'Josefin Sans', fontStyle: 'italic', fontWeight: '700', wordWrap: 'break-word', textShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)'
+---
+// Register a new item
+color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '500', wordWrap: 'break-word'
+---
+// Find a missing item
+color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'
+---
+// Find a place to put my item
+color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '500', wordWrap: 'break-word'
+---
+// What would you like to do?
+color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '300', wordWrap: 'break-word'
+---
+// fetchly
+color: 'black', fontSize: 32, fontFamily: 'Jersey 10', fontWeight: '400', wordWrap: 'break-word'
+// Find a missing item
+color: '#5B3816', fontSize: 32, fontFamily: 'Josefin Sans', fontStyle: 'italic', fontWeight: '700', wordWrap: 'break-word'
+---
+// Type an item
+color: 'black', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'
+---
+// Your items:
+color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'
+---
+// Wallet
+color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'
+---
+// Keys
+color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'
+---
+// Passport
+color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'
+---
+// Pencil
+color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'
+---
+// Watch
+color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'
+---
+// Glasses
+color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'
+---
+// Hat
+color: '#5B3816', fontSize: 20, fontFamily: 'Josefin Sans', fontWeight: '400', wordWrap: 'break-word'
+---
+// fetchly
+color: 'black', fontSize: 32, fontFamily: 'Jersey 10', fontWeight: '400', wordWrap: 'break-word'
+
+width: 393px;
+height: 950px;
+background: #EDE6C1;
+
+//loading page
+// background: #8CE;
